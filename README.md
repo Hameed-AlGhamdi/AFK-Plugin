@@ -7,4 +7,4 @@ work with paper - spigot ver (1.20.x)
 
 ## Info
 
-wiki
+[**Wiki**](https://github.com/Hameed-AlGhamdi/AFK-Plugin.wiki.git)
